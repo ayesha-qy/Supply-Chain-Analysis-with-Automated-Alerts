@@ -54,11 +54,8 @@ Run the SQL files in `/sql` folder in BigQuery:
 3. Paste code from `/apps_script/low_stock_alert.js`
 4. Set daily trigger (8am)
 
-
 ## 📧 Alert System
 - **Frequency:** Daily at 8am
 - **Trigger:** Stock quantity ≤ Reorder point
 - **Delivery:** Gmail
 
-
-## 📁 File Structure
